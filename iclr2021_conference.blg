@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: iclr2021_conference.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+The style file: iclr2021_conference.bst
+Database file #1: iclr2021_conference.bib
+You've used 22 entries,
+            2773 wiz_defined-function locations,
+            738 strings with 11881 characters,
+and the built_in function-call counts, 16210 in all, are:
+= -- 1321
+> -- 1490
+< -- 16
++ -- 492
+- -- 470
+* -- 1473
+:= -- 2546
+add.period$ -- 81
+call.type$ -- 22
+change.case$ -- 214
+chr.to.int$ -- 22
+cite$ -- 44
+duplicate$ -- 580
+empty$ -- 983
+format.name$ -- 500
+if$ -- 3360
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 23
+newline$ -- 119
+num.names$ -- 104
+pop$ -- 451
+preamble$ -- 1
+purify$ -- 193
+quote$ -- 0
+skip$ -- 529
+stack$ -- 0
+substring$ -- 399
+swap$ -- 122
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 237
+warning$ -- 0
+while$ -- 101
+width$ -- 0
+write$ -- 304

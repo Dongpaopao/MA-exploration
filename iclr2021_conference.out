@@ -1,0 +1,19 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related work}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Intrinsic Motivation for Single-Agent Exploration}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Multi-agent Exploration}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Multi-Agent Credit Assignment under centralize learning with decentralise execution paradigm}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{background}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Dec-POMDP}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Counterfactual baseline}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.3}{Proximal Policy Optimization}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Method}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{Global intrinsic reward function}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.2}{Global Intrinsic Motivation Credit Assignment}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.3}{Permutation Invariant update}{section.4}% 13
+\BOOKMARK [1][-]{section.5}{Experiments}{}% 14
+\BOOKMARK [2][-]{subsection.5.1}{Cooperative Navigation}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.2}{Predator and Prey}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.3}{Multi-Room Search}{section.5}% 17
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 18
+\BOOKMARK [1][-]{appendix.A}{Appendix}{}% 19

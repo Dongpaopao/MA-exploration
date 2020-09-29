@@ -1,0 +1,204 @@
+\begin{thebibliography}{22}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Badia et~al.(2020)Badia, Sprechmann, Vitvitskyi, Guo, Piot,
+  Kapturowski, Tieleman, Arjovsky, Pritzel, Bolt, and Blundell]{NGU}
+Adri{\`{a}}~Puigdom{\`{e}}nech Badia, Pablo Sprechmann, Alex Vitvitskyi, Daniel
+  Guo, Bilal Piot, Steven Kapturowski, Olivier Tieleman, Mart{\'{\i}}n
+  Arjovsky, Alexander Pritzel, Andrew Bolt, and Charles Blundell.
+\newblock Never give up: Learning directed exploration strategies.
+\newblock In \emph{8th International Conference on Learning Representations,
+  {ICLR} 2020, Addis Ababa, Ethiopia, April 26-30, 2020}. OpenReview.net, 2020.
+
+\bibitem[Burda et~al.(2019)Burda, Edwards, Storkey, and Klimov]{RND}
+Yuri Burda, Harrison Edwards, Amos~J. Storkey, and Oleg Klimov.
+\newblock Exploration by random network distillation.
+\newblock In \emph{7th International Conference on Learning Representations,
+  {ICLR} 2019, New Orleans, LA, USA, May 6-9, 2019}. OpenReview.net, 2019.
+
+\bibitem[Chitnis et~al.(2020)Chitnis, Tulsiani, Gupta, and Gupta]{Synergistic}
+Rohan Chitnis, Shubham Tulsiani, Saurabh Gupta, and Abhinav Gupta.
+\newblock Intrinsic motivation for encouraging synergistic behavior.
+\newblock In \emph{8th International Conference on Learning Representations,
+  {ICLR} 2020, Addis Ababa, Ethiopia, April 26-30, 2020}. OpenReview.net, 2020.
+
+\bibitem[Foerster et~al.(2018)Foerster, Farquhar, Afouras, Nardelli, and
+  Whiteson]{COMA}
+Jakob~N. Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli,
+  and Shimon Whiteson.
+\newblock Counterfactual multi-agent policy gradients.
+\newblock In Sheila~A. McIlraith and Kilian~Q. Weinberger (eds.),
+  \emph{Proceedings of the Thirty-Second {AAAI} Conference on Artificial
+  Intelligence, (AAAI-18), the 30th innovative Applications of Artificial
+  Intelligence (IAAI-18), and the 8th {AAAI} Symposium on Educational Advances
+  in Artificial Intelligence (EAAI-18), New Orleans, Louisiana, USA, February
+  2-7, 2018}, pp.\  2974--2982. {AAAI} Press, 2018.
+
+\bibitem[Iqbal \& Sha(2019)Iqbal and Sha]{Cooperative}
+Shariq Iqbal and Fei Sha.
+\newblock Coordinated exploration via intrinsic rewards for multi-agent
+  reinforcement learning.
+\newblock \emph{CoRR}, abs/1905.12127, 2019.
+
+\bibitem[Jaques et~al.(2019)Jaques, Lazaridou, Hughes, G{\"{u}}l{\c{c}}ehre,
+  Ortega, Strouse, Leibo, and de~Freitas]{Social}
+Natasha Jaques, Angeliki Lazaridou, Edward Hughes, {\c{C}}aglar
+  G{\"{u}}l{\c{c}}ehre, Pedro~A. Ortega, DJ~Strouse, Joel~Z. Leibo, and Nando
+  de~Freitas.
+\newblock Social influence as intrinsic motivation for multi-agent deep
+  reinforcement learning.
+\newblock In Kamalika Chaudhuri and Ruslan Salakhutdinov (eds.),
+  \emph{Proceedings of the 36th International Conference on Machine Learning,
+  {ICML} 2019, 9-15 June 2019, Long Beach, California, {USA}}, volume~97 of
+  \emph{Proceedings of Machine Learning Research}, pp.\  3040--3049. {PMLR},
+  2019.
+
+\bibitem[Lillicrap et~al.(2016)Lillicrap, Hunt, Pritzel, Heess, Erez, Tassa,
+  Silver, and Wierstra]{continuous}
+Timothy~P. Lillicrap, Jonathan~J. Hunt, Alexander Pritzel, Nicolas Heess, Tom
+  Erez, Yuval Tassa, David Silver, and Daan Wierstra.
+\newblock Continuous control with deep reinforcement learning.
+\newblock In Yoshua Bengio and Yann LeCun (eds.), \emph{4th International
+  Conference on Learning Representations, {ICLR} 2016, San Juan, Puerto Rico,
+  May 2-4, 2016, Conference Track Proceedings}, 2016.
+
+\bibitem[Mirowski et~al.(2017)Mirowski, Pascanu, Viola, Soyer, Ballard, Banino,
+  Denil, Goroshin, Sifre, Kavukcuoglu, Kumaran, and Hadsell]{distance}
+Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andy Ballard, Andrea
+  Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray Kavukcuoglu,
+  Dharshan Kumaran, and Raia Hadsell.
+\newblock Learning to navigate in complex environments.
+\newblock In \emph{5th International Conference on Learning Representations,
+  {ICLR} 2017, Toulon, France, April 24-26, 2017, Conference Track
+  Proceedings}. OpenReview.net, 2017.
+
+\bibitem[Mnih et~al.(2015)Mnih, Kavukcuoglu, Silver, Rusu, Veness, Bellemare,
+  Graves, Riedmiller, Fidjeland, Ostrovski, Petersen, Beattie, Sadik,
+  Antonoglou, King, Kumaran, Wierstra, Legg, and Hassabis]{Human-level}
+Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei~A. Rusu, Joel Veness,
+  Marc~G. Bellemare, Alex Graves, Martin~A. Riedmiller, Andreas Fidjeland,
+  Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis
+  Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, and
+  Demis Hassabis.
+\newblock Human-level control through deep reinforcement learning.
+\newblock \emph{Nat.}, 518\penalty0 (7540):\penalty0 529--533, 2015.
+
+\bibitem[Pathak et~al.(2017)Pathak, Agrawal, Efros, and Darrell]{ICM}
+Deepak Pathak, Pulkit Agrawal, Alexei~A. Efros, and Trevor Darrell.
+\newblock Curiosity-driven exploration by self-supervised prediction.
+\newblock In Doina Precup and Yee~Whye Teh (eds.), \emph{Proceedings of the
+  34th International Conference on Machine Learning, {ICML} 2017, Sydney, NSW,
+  Australia, 6-11 August 2017}, volume~70 of \emph{Proceedings of Machine
+  Learning Research}, pp.\  2778--2787. {PMLR}, 2017.
+
+\bibitem[Raileanu \& Rockt{\"{a}}schel(2020)Raileanu and
+  Rockt{\"{a}}schel]{RIDE}
+Roberta Raileanu and Tim Rockt{\"{a}}schel.
+\newblock {RIDE:} rewarding impact-driven exploration for
+  procedurally-generated environments.
+\newblock In \emph{8th International Conference on Learning Representations,
+  {ICLR} 2020, Addis Ababa, Ethiopia, April 26-30, 2020}. OpenReview.net, 2020.
+\newblock URL \url{https://openreview.net/forum?id=rkg-TJBFPB}.
+
+\bibitem[Rashid et~al.(2018)Rashid, Samvelyan, de~Witt, Farquhar, Foerster, and
+  Whiteson]{QMIX}
+Tabish Rashid, Mikayel Samvelyan, Christian~Schr{\"{o}}der de~Witt, Gregory
+  Farquhar, Jakob~N. Foerster, and Shimon Whiteson.
+\newblock {QMIX:} monotonic value function factorisation for deep multi-agent
+  reinforcement learning.
+\newblock In Jennifer~G. Dy and Andreas Krause (eds.), \emph{Proceedings of the
+  35th International Conference on Machine Learning, {ICML} 2018,
+  Stockholmsm{\"{a}}ssan, Stockholm, Sweden, July 10-15, 2018}, volume~80 of
+  \emph{Proceedings of Machine Learning Research}, pp.\  4292--4301. {PMLR},
+  2018.
+
+\bibitem[Schulman et~al.(2015)Schulman, Levine, Abbeel, Jordan, and
+  Moritz]{SchulmanLAJM15TRPO}
+John Schulman, Sergey Levine, Pieter Abbeel, Michael~I. Jordan, and Philipp
+  Moritz.
+\newblock Trust region policy optimization.
+\newblock In Francis~R. Bach and David~M. Blei (eds.), \emph{Proceedings of the
+  32nd International Conference on Machine Learning, {ICML} 2015, Lille,
+  France, 6-11 July 2015}, volume~37 of \emph{{JMLR} Workshop and Conference
+  Proceedings}, pp.\  1889--1897. JMLR.org, 2015.
+
+\bibitem[Schulman et~al.(2017)Schulman, Wolski, Dhariwal, Radford, and
+  Klimov]{SchulmanWDRK17PPO}
+John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov.
+\newblock Proximal policy optimization algorithms.
+\newblock \emph{CoRR}, abs/1707.06347, 2017.
+
+\bibitem[Silver et~al.(2016)Silver, Huang, Maddison, Guez, Sifre, van~den
+  Driessche, Schrittwieser, Antonoglou, Panneershelvam, Lanctot, Dieleman,
+  Grewe, Nham, Kalchbrenner, Sutskever, Lillicrap, Leach, Kavukcuoglu, Graepel,
+  and Hassabis]{Go}
+David Silver, Aja Huang, Chris~J. Maddison, Arthur Guez, Laurent Sifre, George
+  van~den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Vedavyas
+  Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal
+  Kalchbrenner, Ilya Sutskever, Timothy~P. Lillicrap, Madeleine Leach, Koray
+  Kavukcuoglu, Thore Graepel, and Demis Hassabis.
+\newblock Mastering the game of go with deep neural networks and tree search.
+\newblock \emph{Nat.}, 529\penalty0 (7587):\penalty0 484--489, 2016.
+
+\bibitem[Sunehag et~al.(2018)Sunehag, Lever, Gruslys, Czarnecki, Zambaldi,
+  Jaderberg, Lanctot, Sonnerat, Leibo, Tuyls, and Graepel]{VDN}
+Peter Sunehag, Guy Lever, Audrunas Gruslys, Wojciech~Marian Czarnecki,
+  Vin{\'{\i}}cius~Flores Zambaldi, Max Jaderberg, Marc Lanctot, Nicolas
+  Sonnerat, Joel~Z. Leibo, Karl Tuyls, and Thore Graepel.
+\newblock Value-decomposition networks for cooperative multi-agent learning
+  based on team reward.
+\newblock In Elisabeth Andr{\'{e}}, Sven Koenig, Mehdi Dastani, and Gita
+  Sukthankar (eds.), \emph{Proceedings of the 17th International Conference on
+  Autonomous Agents and MultiAgent Systems, {AAMAS} 2018, Stockholm, Sweden,
+  July 10-15, 2018}, pp.\  2085--2087. International Foundation for Autonomous
+  Agents and Multiagent Systems Richland, SC, {USA} / {ACM}, 2018.
+
+\bibitem[Sutton \& Barto(1998)Sutton and Barto]{SuttonB98RLAI}
+R.~S. Sutton and A.~G. Barto.
+\newblock \emph{Reinforcement learning - an introduction}.
+\newblock Adaptive computation and machine learning. {MIT} Press, 1998.
+
+\bibitem[Tang et~al.(2017)Tang, Houthooft, Foote, Stooke, Chen, Duan, Schulman,
+  Turck, and Abbeel]{Count}
+Haoran Tang, Rein Houthooft, Davis Foote, Adam Stooke, Xi~Chen, Yan Duan, John
+  Schulman, Filip~De Turck, and Pieter Abbeel.
+\newblock {\#}exploration: {A} study of count-based exploration for deep
+  reinforcement learning.
+\newblock In Isabelle Guyon, Ulrike von Luxburg, Samy Bengio, Hanna~M. Wallach,
+  Rob Fergus, S.~V.~N. Vishwanathan, and Roman Garnett (eds.), \emph{Advances
+  in Neural Information Processing Systems 30: Annual Conference on Neural
+  Information Processing Systems 2017, 4-9 December 2017, Long Beach, CA,
+  {USA}}, pp.\  2753--2762, 2017.
+
+\bibitem[Wang et~al.(2020)Wang, Wang, Wu, and Zhang]{Influence}
+Tonghan Wang, Jianhao Wang, Yi~Wu, and Chongjie Zhang.
+\newblock Influence-based multi-agent exploration.
+\newblock In \emph{8th International Conference on Learning Representations,
+  {ICLR} 2020, Addis Ababa, Ethiopia, April 26-30, 2020}. OpenReview.net, 2020.
+
+\bibitem[Williams(1992)]{Williams92REINFORCE}
+Ronald~J. Williams.
+\newblock Simple statistical gradient-following algorithms for connectionist
+  reinforcement learning.
+\newblock \emph{Mach. Learn.}, 8:\penalty0 229--256, 1992.
+
+\bibitem[Wu \& Tian(2017)Wu and Tian]{expert}
+Yuxin Wu and Yuandong Tian.
+\newblock Training agent for first-person shooter game with actor-critic
+  curriculum learning.
+\newblock In \emph{5th International Conference on Learning Representations,
+  {ICLR} 2017, Toulon, France, April 24-26, 2017, Conference Track
+  Proceedings}. OpenReview.net, 2017.
+
+\bibitem[Zhang et~al.(2019)Zhang, Wetzel, Dorka, Boedecker, and Burgard]{SF}
+Jingwei Zhang, Niklas Wetzel, Nicolai Dorka, Joschka Boedecker, and Wolfram
+  Burgard.
+\newblock Scheduled intrinsic drive: {A} hierarchical take on intrinsically
+  motivated exploration.
+\newblock \emph{CoRR}, abs/1903.07400, 2019.
+
+\end{thebibliography}
